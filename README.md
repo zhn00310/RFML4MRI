@@ -17,26 +17,25 @@ This is the official implementation of our ICLR 2026 submission,
 # File Tree
 ```
 IPOD/
-├── Figs/                            # Visualization
+├── Figs/                       # Visualization
 │   ├── fig_1.pdf
 │   ├── fig_1.png
 │   ├── fig_2.pdf
 │   └── fig_2.png
 │
 ├── checkpoints/
-│   └── model_epoch_2500.pth         # Checkpoint at epoch 2500 (IPOD initialization for SIREN)
+│   └── model_epoch_2500.pth    # Checkpoint at epoch 2500 (IPOD initialization for SIREN)
 │
 ├── data/
-│   └── sample_0009.h5               # Sample MRI data in HDF5 format
+│   └── sample_0009.h5          # Sample MRI data in HDF5 format
 │
-├── IPOD_SIREN.py                    # IPOD-SIREN main implementation
-├── README.md                        # Project documentation
-├── SIREN_IPOD_demo.ipynb            # Demo notebook for SIREN-IPOD
-├── SIREN_IPOD_train.py              # Training framework for SIREN-IPOD
-├── SIREN_IPOD_utils.py              # Utility functions for SIREN-IPOD training
-├── model_siren.py                   # SIREN model architecture
-├── utils.py                         # General utility functions
-└── utils_test.py                    # Testing utilities
+├── README.md                   # Project documentation
+├── SIREN_IPOD_demo.ipynb       # Demo notebook for SIREN-IPOD
+├── SIREN_IPOD_train.py         # Training framework for SIREN-IPOD
+├── SIREN_IPOD_utils.py         # Tools for SIREN-IPOD training
+├── model_siren.py              # SIREN model architecture
+├── utils.py                    # General tools
+└── utils_test.py               # Testing tools
 ```
 
 
