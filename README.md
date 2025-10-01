@@ -3,7 +3,7 @@
 This is the official implementation of our ICLR 2026 submission,  
 "IPOD: Inverse-Problem-Driven Meta-Learning for Fast Generalizable Neural Representations in MRI Reconstruction".
 <p align="center">
-  <img src="Figs/fig_1.png" alt="Pipeline of the single-problem optimization" width="680"/><br>
+  <img src="Figs/fig_1.png" alt="Pipeline of the single-problem optimization" width="700"/><br>
   <em>Fig. 1: Pipeline of the single-problem optimization in MRI reconstruction.</em>
 </p>
 
