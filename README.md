@@ -15,7 +15,7 @@ This is the official implementation of our ICLR 2026 submission,
 
 
 # File Tree
-
+```
 IPOD/
 ├── Figs/                            # Visualization
 │   ├── fig_1.pdf
@@ -32,12 +32,11 @@ IPOD/
 ├── IPOD_SIREN.py                    # IPOD-SIREN main implementation
 ├── README.md                        # Project documentation
 ├── SIREN_IPOD_demo.ipynb            # Demo notebook for SIREN-IPOD
-├── SIREN_IPOD_train.py              # Training script for SIREN-IPOD
+├── SIREN_IPOD_train.py              # Training framework for SIREN-IPOD
 ├── SIREN_IPOD_utils.py              # Utility functions for SIREN-IPOD training
 ├── model_siren.py                   # SIREN model architecture
 ├── utils.py                         # General utility functions
 └── utils_test.py                    # Testing utilities
 ```
-
 
 
