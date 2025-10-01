@@ -13,6 +13,9 @@ This is the official implementation of our ICLR 2026 submission,
   <sub>Fig. 2: Overview of the proposed IPOD framework.</sub>
 </p>
 
+# Visualizations
+<img src="Figs/gif1.jpg" alt="Pipeline" width="700"/><br>
+
 
 # File Tree
 ```
@@ -55,3 +58,7 @@ To run this project, you will need the following packages:
 - numpy
 - skimage
 - other dependencies
+
+## Future Work
+More details and data will be made publicly available in the future.
+
