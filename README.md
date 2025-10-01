@@ -39,3 +39,7 @@ IPOD/
 ```
 
 
+# Run a Demo
+We provide a demo `SIREN_IPOD_demo.ipynb` to demonstrate how IPOD improves the convergence speed and performance of the SIREN.
+
+
