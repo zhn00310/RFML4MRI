@@ -18,13 +18,13 @@ This is the official implementation of our ICLR 2026 submission,
 
 IPOD/
 ├── Figs/                            # Visualization
-│   ├── fig_1.pdf                    
-│   ├── fig_1.png                   
-│   ├── fig_2.pdf                   
-│   └── fig_2.png                   
+│   ├── fig_1.pdf
+│   ├── fig_1.png
+│   ├── fig_2.pdf
+│   └── fig_2.png
 │
 ├── checkpoints/
-│   └── model_epoch_2500.pth         # checkpoint at epoch 2500 （IPOD initialization for SIREN）
+│   └── model_epoch_2500.pth         # Checkpoint at epoch 2500 (IPOD initialization for SIREN)
 │
 ├── data/
 │   └── sample_0009.h5               # Sample MRI data in HDF5 format
