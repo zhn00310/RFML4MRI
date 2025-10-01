@@ -14,7 +14,11 @@ This is the official implementation of our ICLR 2026 submission,
 </p>
 
 # Visualizations
-<img src="Figs/gif1.jpg" alt="Pipeline" width="700"/><br>
+<p align="center">
+  <img src="Figs/fig_3.jpg" alt="IPOD Framework" width="700"/><br>
+  <sub>Fig. 3: : Qualitative and quantitative comparison of baselines with and without IPOD initialization
+under a small number of parameter updates (150 iterations) on fastMRI and MoDL datasets.</sub>
+</p>
 
 
 # File Tree
