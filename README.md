@@ -1,7 +1,7 @@
 # IPOD
 
 <p align="center">
-  <img src="Figs/fig_1.png" alt="Pipeline of the single-problem optimization" height="400"/><br>
+  <img src="Figs/fig_1.png" alt="Pipeline of the single-problem optimization" height="250"/><br>
   <em>Fig. 1: Pipeline of the single-problem optimization in MRI reconstruction.</em>
 </p>
 
