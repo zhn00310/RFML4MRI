@@ -738,7 +738,7 @@ class ReptileTrainer:
         # Load checkpoint if specified
         if load_index:
             checkpoint = torch.load(
-                f'/mnt/400T/zhn/Meta/maml_checkpoints_SIREN_0821_optimized/model_epoch_{load_index}.pth',
+                f'./checkpoints/model_epoch_{load_index}.pth',
                 map_location=self.device
             )
             self.model.load_state_dict(checkpoint['model_state_dict'])
@@ -761,7 +761,7 @@ class ReptileTrainer:
     def inner_loop_adaptation(
         self,
         task_samples: List[Dict],
-        visualize_path: str = '/mnt/400T/zhn/Meta/progress'
+        visualize_path: str = './progress'
     ) -> Tuple[SirenModel, float]:
         """
         Inner loop adaptation for task - create model copy and update on task samples
