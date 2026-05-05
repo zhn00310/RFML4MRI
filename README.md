@@ -1,5 +1,5 @@
 Official implementation of our paper accepted at ICML 2026:
-*Reference-Free Meta-Learning for Generalized Implicit Neural Representation in Efficient MRI Reconstruction*[Paper]([https://www.sciencedirect.com/science/article/abs/pii/S0031320326008241](https://openreview.net/forum?id=jPVGiAUlNa&noteId=8XzCtDH4EI&referrer=%5BAuthor%20Console%5D%28%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23author-tasks%29))
+*Reference-Free Meta-Learning for Generalized Implicit Neural Representation in Efficient MRI Reconstruction* [Paper]([https://www.sciencedirect.com/science/article/abs/pii/S0031320326008241](https://openreview.net/forum?id=jPVGiAUlNa&noteId=8XzCtDH4EI&referrer=%5BAuthor%20Console%5D%28%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23author-tasks%29))
 
 
 <p align="center">
