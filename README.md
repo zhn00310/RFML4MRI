@@ -33,7 +33,7 @@ IPOD/
 │   └── model_epoch_2500.pth    # Checkpoint at epoch 2500 (IPOD initialization for SIREN)
 │
 ├── data/
-│   └── sample_0009.h5          # Sample MRI data in HDF5 format
+│   └── sample_0009.h5          # Sampled MRI data in HDF5 format
 │
 ├── README.md                   # Project documentation
 ├── SIREN_IPOD_demo.ipynb       # Demo notebook for SIREN-IPOD
