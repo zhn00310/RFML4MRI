@@ -1,5 +1,5 @@
-This is the official implementation of our 2026 submission,  
-"Reference-Free Meta-Learning for Generalized Implicit Neural Representation in Efficient MRI Reconstruction".
+Official implementation of our paper accepted at ICML 2026:
+*Reference-Free Meta-Learning for Generalized Implicit Neural Representation in Efficient MRI Reconstruction*
 
 
 <p align="center">
